@@ -1,0 +1,13 @@
+INICIO_RegistroSuperhéroes
+Leer "lista de superhéroes"
+Escribir "Digite la cantidad de superheroes"
+Leer n
+Para i 1 hasta n hacer 
+Escribir "Digite el nombre del superhéroe"
+Leer nombre
+Escribir "Digite la cantidad de superpoderes"
+Leer CantidadPoderes 
+Para j 1 hasta cantidad hacer
+Escribir "Digite el superpoder "i, j"
+Leer poder
+Fin.
